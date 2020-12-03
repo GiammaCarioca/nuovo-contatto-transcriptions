@@ -1,0 +1,24 @@
+{
+  "name": "Dialoghi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiammaCarioca/dialoghi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiammaCarioca/dialoghi/issues"
+  },
+  "homepage": "https://github.com/GiammaCarioca/dialoghi#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
