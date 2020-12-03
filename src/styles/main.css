@@ -1,0 +1,39 @@
+body {
+  background-color: lightgray;
+  color: darkblue;
+}
+
+.voice-1,
+.voice-2 {
+  font-family: Courier New, monospace;
+  max-width: 400px;
+  clear: both;
+}
+
+.voice-1 span,
+.voice-2 span {
+  font-weight: bold;
+  display: block;
+}
+
+.voice-1 span {
+  color: magenta;
+}
+
+.voice-2 {
+  float: right;
+}
+
+.voice-2 span {
+  color: green;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.dialogue-wrapper {
+  width: 500px;
+  margin: auto;
+}
