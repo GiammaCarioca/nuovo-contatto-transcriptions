@@ -5,10 +5,10 @@
   "main": "index.html",
   "scripts": {
     "build": "npm-run-all build:css build:html",
-    "build:css": "postcss src/_includes/css/tailwind.css -o src/styles/main.css",
+    "build:css": "postcss src/_includes/styles/tailwind.css -o src/styles/main.css",
     "build:html": "npx eleventy",
     "watch": "npm-run-all --parallel watch:css watch:html",
-    "watch:css": "postcss src/_includes/css/tailwind.css -o src/styles/main.css --watch",
+    "watch:css": "postcss src/_includes/styles/tailwind.css -o src/styles/main.css --watch",
     "watch:html": "npx eleventy --serve",
     "start": "npm run watch"
   },
