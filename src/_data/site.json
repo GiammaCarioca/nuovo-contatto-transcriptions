@@ -1,4 +1,9 @@
 {
-  "name": "Contatto A2",
-  "url": "https://loving-fermat-4c6ea2.netlify.app/"
+  "title": "Nuovo Contatto A2",
+  "url": "https://loving-fermat-4c6ea2.netlify.app/",
+  "description": "Trascrizioni delle tracce audio",
+  "author": {
+    "name": "Thiago Giammattey",
+    "email": "hey@giammattey.com"
+  }
 }

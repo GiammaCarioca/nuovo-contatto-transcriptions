@@ -10,7 +10,8 @@
     "watch": "npm-run-all --parallel watch:css watch:html",
     "watch:css": "postcss src/_includes/styles/tailwind.css -o src/styles/main.css --watch",
     "watch:html": "npx eleventy --serve",
-    "start": "npm run watch"
+    "start": "npm run watch",
+    "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
     "type": "git",
