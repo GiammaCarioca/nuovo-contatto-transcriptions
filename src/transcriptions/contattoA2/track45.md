@@ -6,76 +6,78 @@ chapter: 'Unità 2: Cercavo qualcosa?'
 permalink: '/trascrizioni/traccia45/'
 ---
 
-Pronto?
+Traccia 45
 
-Salve, sono Giulia. Cercavo Manuela.
+**Signora** Pronto?
 
-Guardi che ha sbagliato numero.
+**Giulia** Salve, sono Giulia. Cercavo Manuela.
 
-Non è il 278769?
+**Signora** Guardi che ha sbagliato numero.
 
-No, questo è il 274769.
+**Giulia** Non è il 278769?
 
-Oh mi scusi, ho sbagliato numero.
+**Signora** No, questo è il 274769.
 
-Prego, di nulla.
+**Giulia** Oh mi scusi, ho sbagliato numero.
 
-[...]
-
-Pronto?
-
-Buongiorno signora Carla, sono Giulia. Come sta?
-
-Ciao Giulia, bene grazie. Cercavi Manuela?
-
-Sì, è in casa?
-
-No, è uscita a fare acquisti. Prova a cercarla sul cellulare. Ha il suo numero?
-
-Sì, non è 346-2378976?
-
-Sì, è quello giusto!
-
-Grazie signora Carla, e tanti auguri per l’anno nuovo anche a Suo marito.
-
-Grazie, anche a te e Giulia.
+**Signora** Prego, di nulla.
 
 [...]
 
-Pronto?
+**Signora Carla** Pronto?
 
-Pronto? Manu? Mi senti? Sono Giulia.
+**Giulia** Buongiorno signora Carla, sono Giulia. Come sta?
 
-Ciao Giulia. Ti sento male. Ti richiamo io!
+**Signora Carla** Ciao Giulia, bene grazie. Cercavi Manuela?
 
-Ok!
+**Giulia** Sì, è in casa?
+
+**Signora Carla** No, è uscita a fare acquisti. Prova a cercarla sul cellulare. Hai il suo numero?
+
+**Giulia** Sì, non è 346-2378976?
+
+**Signora Carla** Sì, è quello giusto!
+
+**Giulia** Grazie signora Carla, e tanti auguri per l’anno nuovo anche a Suo marito.
+
+**Signora Carla** Grazie, anche a te Giulia.
 
 [...]
 
-Ciao Giulia!
+**Manuela** Pronto?
 
-Ciao Manu, finalmente! Volevo farti gli auguri per Capodanno!
+**Giulia** Pronto? Manu? Mi senti? Sono Giulia.
 
-Grazie, anche a te. Cosa fai di bello questa sera?
+**Manuela** Ciao Giulia. Ti sento male. Ti richiamo io!
 
-Mah guarda, niente di particolare, un cenone con gli amici, vengono degli amici a casa mia.
+**Giulia** Ok!
 
-Chissà quanto cucinerai!
+[...]
 
-Ma no! Non molto, ognuno prepara qualcosa. E tu come aspetti la mezzanotte?
+**Manuela** Ciao Giulia!
 
-Io vado a una mega festa, una di quelle feste organizzate che promettono scintille, ma poi... a ogni modo siamo un bel gruppetto di persone, i soliti vecchi amici, quindi il divertimento è assicurato.
+**Giulia** Ciao Manu, finalmente! Volevo farti gli auguri per Capodanno!
 
-Ma cosa fai a quest'ora ancora in giro?
+**Manuela** Grazie, anche a te. Cosa fai di bello questa sera?
 
-Sono in centro a cercare un maglione rosso da mettere stasera, sai che porta bene, ma come al solito mi riduco all’ultimo minuto e poi non riesco più a trovare niente. E tu cosa metti di rosso?
+**Giulia** Mah guarda, niente di particolare, un cenone con gli amici, vengono degli amici a casa mia.
 
-Che domande. La biancheria, ovvio. E poi ho anche un bel paio di scarpe rosso fiammante.
+**Manuela** Chissà quanto cucinerai!
 
-Mi sa che se non lo trovo il maglione, comprerò anch’io un paio di slip e un reggiseno. Ma forse ho trovato qualcosa in questa vetrina. Adesso entro a chiedere.
+**Giulia** Ma no! Non molto, ognuno prepara qualcosa. E tu come aspetti la mezzanotte?
 
-Ciao Manu e buon anno anche a Filippo.
+**Manuela** Io vado a una megafesta, una di quelle feste organizzate che promettono scintille, ma poi... a ogni modo siamo un bel gruppetto di persone, i soliti vecchi amici, quindi il divertimento è assicurato.
 
-Anche a Giorgio, mi raccomando e... non bevete troppo!
+**Giulia** Ma cosa fai a quest’ora ancora in giro?
 
-Ok, ok! Ciao!
+**Manuela** Sono in centro a cercare un maglione rosso da mettere stasera, sai che porta bene, ma come al solito mi riduco all’ultimo minuto e poi non riesco più a trovare niente. E tu cosa metti di rosso?
+
+**Giulia** Che domande. La biancheria, ovvio. E poi ho anche un bel paio di scarpe rosso fiammante.
+
+**Manuela** Mi sa che se non trovo il maglione, comprerò anch’io un paio di slip e un reggiseno. Ma forse ho trovato qualcosa in questa vetrina. Adesso entro a chiedere.
+
+**Giulia** Ciao Manu e buon anno anche a Filippo.
+
+**Manuela** Anche a Giorgio, mi raccomando e... non bevete troppo!
+
+**Giulia** Ok, Ok! Ciao!
