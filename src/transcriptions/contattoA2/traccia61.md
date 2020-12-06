@@ -1,0 +1,30 @@
+---
+title: 'Traccia 61'
+displayOrder: 61
+chapter: 'Unità 5: Come stai?'
+---
+
+Traccia 61
+
+Il Lonfo
+
+Il Lonfo non vaterca né gluisce
+e molto raramente barigatta,
+ma quando soffia il bego a bisce bisce
+sdilenca un poco e gnagio s’archipatta.
+
+È frusco il Lonfo! È pieno di lupigna
+arrafferia malversa e sofolenta!
+Se cionfi ti sbiduglia e ti arrupigna
+se lugri ti botalla e ti criventa.
+
+Eppure il vecchio Lonfo ammargelluto
+che bete e zugghia e fonca nei trombazzi
+fa lègica busìa, fa gisbuto;
+
+e quasi quasi in segno di sberdazzi
+gli affarferesti un gniffo. Ma lui zuto
+t’alloppa, ti sbernecchia; e tu l’accazzi.
+
+
+(da Gnòsi delle Fànfole di Fosco Maraini)
