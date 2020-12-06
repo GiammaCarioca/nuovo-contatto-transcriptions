@@ -4,8 +4,6 @@ displayOrder: 39
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 39
-
 **1** voto – vuoto
 
 **2** fuori – fori

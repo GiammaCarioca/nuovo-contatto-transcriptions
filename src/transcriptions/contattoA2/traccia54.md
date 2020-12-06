@@ -4,8 +4,6 @@ displayOrder: 54
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 54
-
 **Padrona di casa** Chi è?
 
 **Amica** Sono Maria. Permesso?

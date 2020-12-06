@@ -4,8 +4,6 @@ displayOrder: 52
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 ---
 
-Traccia 52
-
 **1** visto
 
 **2** evento

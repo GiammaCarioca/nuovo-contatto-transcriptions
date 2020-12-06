@@ -4,8 +4,6 @@ displayOrder: 22
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 ---
 
-Traccia 22
-
 **Carla** Quanti album! Sono tutti di fotografie?
 
 **Emanuela** Sì, sì. Hai visto? Ne ho tantissime. Sai, la fotografia è da sempre il mio hobby.

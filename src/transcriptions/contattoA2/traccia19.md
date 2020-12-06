@@ -4,8 +4,6 @@ displayOrder: 19
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 19
-
 **1** cappello
 
 **2** Natale

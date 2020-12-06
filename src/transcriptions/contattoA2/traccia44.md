@@ -4,8 +4,6 @@ displayOrder: 44
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 44
-
 ■ Cosa ti è successo?
 
 ● Mi sono rotto il braccio.

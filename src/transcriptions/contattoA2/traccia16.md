@@ -4,8 +4,6 @@ displayOrder: 16
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 16
-
 ■ Buongiorno, vorrei ritirare il mio vestito invernale.
 
 ● A che nome?

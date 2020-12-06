@@ -4,8 +4,6 @@ displayOrder: 6
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 6
-
 1
 
 ■ Ciao, come sono andate le vacanze?

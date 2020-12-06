@@ -4,8 +4,6 @@ displayOrder: 57
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 57
-
 **1** nonno – nono
 
 **2** sonno – sono

@@ -4,8 +4,6 @@ displayOrder: 36
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 36
-
 1
 
 ■ Che cosa Le è successo?

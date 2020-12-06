@@ -4,8 +4,6 @@ displayOrder: 25
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 ---
 
-Traccia 25
-
 **1** A che ora arrivi di solito a scuola?
 
 **2** Quando fai i compiti a casa?

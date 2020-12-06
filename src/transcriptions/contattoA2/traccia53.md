@@ -4,8 +4,6 @@ displayOrder: 53
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 ---
 
-Traccia 53
-
 a
 
 **1** Mio fratello maggiore è sposato e ha tre figli.

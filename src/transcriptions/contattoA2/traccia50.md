@@ -4,8 +4,6 @@ displayOrder: 50
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 50
-
 **1** voglio – foglio
 
 **2** faro – varo

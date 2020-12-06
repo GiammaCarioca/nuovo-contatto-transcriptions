@@ -4,8 +4,6 @@ displayOrder: 45
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 45
-
 **Signora** Pronto?
 
 **Giulia** Salve, sono Giulia. Cercavo Manuela.

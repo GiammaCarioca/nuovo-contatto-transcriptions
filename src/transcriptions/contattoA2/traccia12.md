@@ -4,8 +4,6 @@ displayOrder: 12
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 12
-
 ■ Eh, no, domani io parto, me ne vado al mare, in Sicilia, a Sciacca!
 
 ● Al mare? D’inverno? Non dire sciocchezze! D’inverno si va in montagna, sulla neve, a sciare!

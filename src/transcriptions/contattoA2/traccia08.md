@@ -4,8 +4,6 @@ displayOrder: 8
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 8
-
 ■ Allora, andiamo?
 
 ● Un attimo! Sono sicura che abbiamo dimenticato qualcosa. La macchina fotografica?

@@ -4,8 +4,6 @@ displayOrder: 30
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 30
-
 **Amica** Allora avete comprato casa!
 
 **Signora Cavagna** Eh sì, siamo anche molto soddisfatti. Dai, siediti che ti faccio vedere la piantina dell’appartamento. Guarda, allora, si entra direttamente nel soggiorno, che è collegato alla cucina.

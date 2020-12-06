@@ -4,8 +4,6 @@ displayOrder: 41
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 41
-
 **Intervistatore** La cura del corpo sta diventando per molti una vera ossessione. Ecco, allora, che per ringiovanire, o per rallentare l’invecchiamento molti scelgono le cure termali. Quanto è recente questa moda?
 
 **Esperta** In realtà non c’è nulla di nuovo sotto il sole. Già nel mondo greco del VI secolo a.C. le terme erano diffuse. E il nome stesso delle prime terme romane, _balnea_ , deriva dal greco _balanéion_ , “luogo per il bagno”. Nell’antica Roma a partire dal II secolo d.C., quando vengono costruiti i primi bagni pubblici (in realtà più per necessità igieniche che per la cura del corpo), le terme diventano un importante luogo d’incontro e di relax per tutti.

@@ -7,7 +7,9 @@ permalink: '/trascrizioni/'
 {% block content %}
 <ul>
   {% for transcript in collections.transcripts %}
-  <li>
+  <li
+    class="px-4 py-2 my-6 text-lg font-bold tracking-wide text-blue-700 bg-blue-100 shadow-lg"
+  >
     <a href="{{ transcript.url }}"> {{ transcript.data.title }} </a>
   </li>
   {% endfor %}

@@ -1,7 +1,9 @@
 <nav>
-  <ul>
+  <ul
+    class="flex flex-col items-center justify-end space-x-4 lg:justify-center md:flex-row"
+  >
     {% for item in navigation.items %}
-    <li>
+    <li class="md:px-8">
       <a
         href="{{ item.url }}"
         {{

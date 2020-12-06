@@ -4,8 +4,6 @@ displayOrder: 7
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 7
-
 ■ Buongiorno, mi dica...
 
 ● Buongiorno, vorremmo alcune informazioni. Siamo appena arrivati e cerchiamo un albergo per tre notti, non troppo caro...

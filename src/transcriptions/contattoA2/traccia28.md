@@ -4,8 +4,6 @@ displayOrder: 28
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 ---
 
-Traccia 28
-
 **1** Ho visto passare un asino e una zebra nel mio bagno. Ma forse era solo un sogno.
 
 **2** Questa sera preparo un risotto con lo zafferano. Sai, sono di Milano!

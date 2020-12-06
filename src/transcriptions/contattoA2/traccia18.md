@@ -4,8 +4,6 @@ displayOrder: 18
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 18
-
 **1** melo – meglio
 
 **2** regalo – bagaglio

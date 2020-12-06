@@ -4,8 +4,6 @@ displayOrder: 56
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 56
-
 **1** Cagnotti Stefano, 1a rata, 696 euro e 71 centesimi.
 
 **2** Nappi Ciro, 1a rata, 485 euro.

@@ -4,8 +4,6 @@ displayOrder: 61
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 61
-
 Il Lonfo
 
 Il Lonfo non vaterca né gluisce

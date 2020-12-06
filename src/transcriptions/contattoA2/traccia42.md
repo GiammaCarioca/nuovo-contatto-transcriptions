@@ -4,8 +4,6 @@ displayOrder: 42
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 42
-
 ■ Buongiorno, mi dica...
 
 ● Vorrei fare un viaggio in Sicilia, a settembre. Potrebbe darmi qualche informazione?

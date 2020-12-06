@@ -4,8 +4,6 @@ displayOrder: 3
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 3
-
 **Claudio** Accidenti! L’ho perso! E adesso che faccio?
 
 [...]

@@ -7,11 +7,16 @@
     <title>Nuovo Contatto A2</title>
     <link rel="stylesheet" href="/styles/main.css" />
   </head>
-  <body>
-    <nav>
-  <ul>
+  <body class="flex flex-col h-full text-gray-800 bg-gray-100">
+    <header
+  class="py-4 font-bold text-blue-700 uppercase border-b shadow-lg md:flex md:items-center"
+>
+  <nav>
+  <ul
+    class="flex flex-col items-center justify-end space-x-4 lg:justify-center md:flex-row"
+  >
     
-    <li>
+    <li class="md:px-8">
       <a
         href="/"
          aria-current="page"
@@ -19,7 +24,7 @@
       >
     </li>
     
-    <li>
+    <li class="md:px-8">
       <a
         href="/chi-siamo/"
         
@@ -27,7 +32,7 @@
       >
     </li>
     
-    <li>
+    <li class="md:px-8">
       <a
         href="/blog/"
         
@@ -35,7 +40,7 @@
       >
     </li>
     
-    <li>
+    <li class="md:px-8">
       <a
         href="/trascrizioni/"
         
@@ -46,15 +51,19 @@
   </ul>
 </nav>
 
-    <main>
-      
+</header>
+
+    <div class="container flex-grow p-6 mx-auto lg:w-2/3 md:p-20">
+      <main>
+        
 <article>
-  <h1>Pagina iniziale</h1>
+  <h1 class="text-2xl font-bold tracking-wide text-blue-700">Pagina iniziale</h1>
   
 </article>
 
-    </main>
-    <footer>
+      </main>
+    </div>
+    <footer class="flex-shrink-0 text-center border-t shadow-lg">
   <p>Hey Giammattey &copy; 2020</p>
 </footer>
 

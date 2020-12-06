@@ -4,8 +4,6 @@ displayOrder: 46
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 46
-
 1
 
 ■ Elios Antincendi, buongiorno.

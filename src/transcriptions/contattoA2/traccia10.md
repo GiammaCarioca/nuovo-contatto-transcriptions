@@ -4,8 +4,6 @@ displayOrder: 10
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 10
-
 1
 
 ■ Dove siete stati?

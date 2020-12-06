@@ -4,8 +4,6 @@ displayOrder: 62
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 62
-
 **1** Sul mare ci sono nove navi nuove, una delle nove non vuole navigare.
 
 **2** Oggi seren non è, domani seren sarà: se non sarà seren si rasserenerà.

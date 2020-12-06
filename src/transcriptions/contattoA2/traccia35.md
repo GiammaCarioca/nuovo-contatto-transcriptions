@@ -4,8 +4,6 @@ displayOrder: 35
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 35
-
 **1** È uno sport di squadra. Si gioca con una palla. Bisogna tirare la palla con i piedi in una porta. Ci sono 11 giocatori in ogni squadra.
 
 **2** È uno sport individuale. Si pratica all’aria aperta. Si può fare in montagna, ma anche in pianura. Ci vuole una bicicletta.

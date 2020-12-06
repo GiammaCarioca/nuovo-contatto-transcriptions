@@ -4,8 +4,6 @@ displayOrder: 14
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 14
-
 **Commessa** Buongiorno signora, posso aiutarLa?
 
 **Anna** Sì, grazie. Cercavo qualcosa per le feste di Natale.

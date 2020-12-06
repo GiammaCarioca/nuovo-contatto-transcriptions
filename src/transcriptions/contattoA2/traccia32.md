@@ -4,8 +4,6 @@ displayOrder: 32
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 32
-
 **1** campana − campagna
 
 **2** pignolo − pinolo

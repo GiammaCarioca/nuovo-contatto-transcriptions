@@ -7,16 +7,18 @@
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="/styles/main.css" />
   </head>
-  <body>
-    {% include "partials/nav.html" %}
-    <main>
-      {% block content %}
-      <p>
-        Here is some placeholder content that will render if a template doesn’t
-        define a block.
-      </p>
-      {% endblock %}
-    </main>
+  <body class="flex flex-col h-full text-gray-800 bg-gray-100">
+    {% include "partials/header.html" %}
+    <div class="container flex-grow p-6 mx-auto lg:w-2/3 md:p-20">
+      <main>
+        {% block content %}
+        <p>
+          Here is some placeholder content that will render if a template
+          doesn’t define a block.
+        </p>
+        {% endblock %}
+      </main>
+    </div>
     {% include "partials/footer.html" %}
   </body>
 </html>

@@ -4,8 +4,6 @@ displayOrder: 47
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 47
-
 1
 
 ■ Sì, pronto?

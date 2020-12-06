@@ -5,8 +5,6 @@ chapter: 'Unità 0: Pronti e via! Italiano, amore a prima vista'
 tags: ['intervista']
 ---
 
-## {{ title }}
-
 **Intervistatrice** Buongiorno a tutti. Oggi abbiamo con noi due ospiti speciali: Yoshiko e Andy. Cominciamo da Yoshiko, 25 anni, giapponese, di Yokohama. Benvenuta Yoshiko.
 
 **Yoshiko** Grazie, buongiorno a tutti.

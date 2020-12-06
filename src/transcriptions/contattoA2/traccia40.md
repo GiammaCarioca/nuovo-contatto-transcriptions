@@ -4,8 +4,6 @@ displayOrder: 40
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 40
-
 **1** Ho acceso una lampada in corridoio perché c’era troppo buio.
 
 **2** Nelle aiuole ci sono fiori di mille colori.

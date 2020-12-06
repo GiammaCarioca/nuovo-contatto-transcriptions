@@ -4,8 +4,6 @@ displayOrder: 11
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 11
-
 **1** Chieti
 
 **2** Cesena

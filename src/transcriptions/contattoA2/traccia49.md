@@ -4,8 +4,6 @@ displayOrder: 49
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 49
-
 **8 marzo: perché si regala la mimosa?**
 
 Puntuale come ogni anno, sta per arrivare l’8 marzo, giorno della Festa della donna. Ma vi siete mai chiesti perché si regala la mimosa e non un altro fiore per celebrare le donne?

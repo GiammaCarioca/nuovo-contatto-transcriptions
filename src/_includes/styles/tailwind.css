@@ -2,9 +2,8 @@
 
 @tailwind components;
 
-body {
-  background-color: lightgray;
-  color: darkblue;
+html {
+  @apply h-full;
 }
 
 @tailwind utilities;

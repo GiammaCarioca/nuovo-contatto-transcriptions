@@ -4,8 +4,6 @@ displayOrder: 33
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 33
-
 1
 
 ■ Sai che Anna si è comprata una villa in Sardegna?

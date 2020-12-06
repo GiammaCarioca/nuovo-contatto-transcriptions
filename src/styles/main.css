@@ -580,9 +580,8 @@ video {
   }
 }
 
-body {
-  background-color: lightgray;
-  color: darkblue;
+html {
+  height: 100%;
 }
 
 .space-y-0 > :not([hidden]) ~ :not([hidden]) {

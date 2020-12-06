@@ -4,8 +4,6 @@ displayOrder: 34
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 34
-
 **Collega** Ciao, Paolo. Ma... cosa c’è? Non ti senti bene? Hai una faccia!
 
 **Paolo** Ho un mal di testa, guarda, tremendo, ho dormito malissimo.

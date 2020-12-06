@@ -4,8 +4,6 @@ displayOrder: 59
 chapter: 'Unità 5: Come stai?'
 ---
 
-Traccia 59
-
 **Intervistatrice** Siamo al telefono con Dario Gilardi, un ragazzo che pratica il parkour nel quartiere di Niguarda. Dario, buongiorno.
 
 **Dario** Buongiorno.

@@ -4,8 +4,6 @@ displayOrder: 58
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 58
-
 ■ Allora, avete comprato casa, finalmente!
 
 ● Sì, e siamo anche molto soddisfatti. Dai, siediti che ti faccio vedere la piantina dell’appartamento. Allora, qui si entra nel soggiorno che comunica a sinistra con la cucina.

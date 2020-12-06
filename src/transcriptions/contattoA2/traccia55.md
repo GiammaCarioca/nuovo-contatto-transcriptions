@@ -4,8 +4,6 @@ displayOrder: 55
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 55
-
 **1** L’appartamento con 500 mq di giardino e 4 posti auto costa 430 000 euro.
 
 **2** Il monolocale nella zona di Malpensata costa 77 000 euro.

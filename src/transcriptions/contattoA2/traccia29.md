@@ -4,8 +4,6 @@ displayOrder: 29
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 ---
 
-Traccia 29
-
 **Agente** Linea Casa, buongiorno.
 
 **Signor Cavagna** Sì, buongiorno, senta, sto cercando un trilocale, volevo sapere se avete qualche proposta.

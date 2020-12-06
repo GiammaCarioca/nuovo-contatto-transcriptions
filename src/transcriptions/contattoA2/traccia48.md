@@ -4,8 +4,6 @@ displayOrder: 48
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 48
-
 **Commesso** Buongiorno.
 
 **Cliente** Salve, cercavo un maglione da uomo di lana.

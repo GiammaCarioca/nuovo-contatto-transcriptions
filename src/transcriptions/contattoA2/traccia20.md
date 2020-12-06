@@ -4,8 +4,6 @@ displayOrder: 20
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 20
-
 Vendesi doppie
 
 Al supermercato “Le doppie”

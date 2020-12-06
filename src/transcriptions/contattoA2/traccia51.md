@@ -4,8 +4,6 @@ displayOrder: 51
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 ---
 
-Traccia 51
-
 **1** Sono Giulia, ho 13 anni e faccio la terza media. Mi piace molto studiare. Seguo con attenzione le lezioni in classe e, quando torno a casa, prima di giocare o uscire con i miei compagni, faccio tutti i compiti. Ho già deciso di iscrivermi al liceo scientifico e credo che all’università farò Medicina. Mi piacerebbe molto diventare chirurgo soprattutto per aiutare la gente.
 
 **2** Io sono Francesca, ho 19 anni. L’anno scorso sono stata bocciata, per cui sto ripetendo per la seconda volta il quarto anno dell’Istituto tecnico commerciale, che è una scuola che, a differenza del liceo, dopo i cinque anni permette di entrare subito nel mondo del lavoro. La scuola non è il mio forte, preferisco guardare la televisione o giocare al computer. Ci danno sempre troppi compiti e alcune materie, come la matematica, non mi piacciono proprio! Spero di superare l’esame di maturità e di trovare un lavoro come segretaria in un’azienda.

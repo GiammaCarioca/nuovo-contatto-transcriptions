@@ -4,8 +4,6 @@ displayOrder: 2
 chapter: 'Unità 0: Pronti e via! Italiano, amore a prima vista'
 ---
 
-Traccia 2
-
 **Intervistatrice** Yoshiko, dove hai imparato l’italiano?
 
 **Yoshiko** Ho fatto due corsi di lingua in Giappone, all’Istituto italiano di cultura della mia città.

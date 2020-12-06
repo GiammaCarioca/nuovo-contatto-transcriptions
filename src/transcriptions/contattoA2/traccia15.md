@@ -4,8 +4,6 @@ displayOrder: 15
 chapter: 'Unità 2: Cercavo qualcosa?'
 ---
 
-Traccia 15
-
 1
 
 ■ Buongiorno signora, posso aiutarLa?

@@ -4,8 +4,6 @@ displayOrder: 13
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 ---
 
-Traccia 13
-
 **1** cacio – cascio
 
 **2** mascia – macia
