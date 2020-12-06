@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 02'
-order: 2
-layout: 'default'
+displayOrder: 2
+layout: 'layouts/transcript.html'
 chapter: 'Unità 0: Pronti e via! Italiano, amore a prima vista'
 permalink: '/trascrizioni/traccia02/'
 ---

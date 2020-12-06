@@ -8,7 +8,15 @@
     <link rel="stylesheet" href="/styles/main.css" />
   </head>
   <body>
-    {% include "partials/nav.html" %} {{ content | safe }} {% include
-    "partials/footer.html" %}
+    {% include "partials/nav.html" %}
+    <main>
+      {% block content %}
+      <p>
+        Here is some placeholder content that will render if a template doesn’t
+        define a block.
+      </p>
+      {% endblock %}
+    </main>
+    {% include "partials/footer.html" %}
   </body>
 </html>

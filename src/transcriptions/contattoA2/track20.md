@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 20'
-order: 20
-layout: 'default'
+displayOrder: 20
+layout: 'layouts/transcript.html'
 chapter: 'Unità 2: Cercavo qualcosa?'
 permalink: '/trascrizioni/traccia20/'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 43'
-order: 43
-layout: 'default'
+displayOrder: 43
+layout: 'layouts/transcript.html'
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 permalink: '/trascrizioni/traccia43/'
 ---

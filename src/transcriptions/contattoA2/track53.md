@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 53'
-order: 53
-layout: 'default'
+displayOrder: 53
+layout: 'layouts/transcript.html'
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 permalink: '/trascrizioni/traccia53/'
 ---

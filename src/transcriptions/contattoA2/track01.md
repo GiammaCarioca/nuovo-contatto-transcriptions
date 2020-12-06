@@ -1,12 +1,12 @@
 ---
 title: 'Traccia 01'
-order: 1
-layout: 'default'
+displayOrder: 1
+layout: 'layouts/transcript.html'
 chapter: 'Unità 0: Pronti e via! Italiano, amore a prima vista'
 permalink: '/trascrizioni/traccia01/'
 ---
 
-Traccia 1
+## {{ title }}
 
 **Intervistatrice** Buongiorno a tutti. Oggi abbiamo con noi due ospiti speciali: Yoshiko e Andy. Cominciamo da Yoshiko, 25 anni, giapponese, di Yokohama. Benvenuta Yoshiko.
 

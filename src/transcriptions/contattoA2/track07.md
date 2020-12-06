@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 07'
-order: 7
-layout: 'default'
+displayOrder: 7
+layout: 'layouts/transcript.html'
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 permalink: '/trascrizioni/traccia07/'
 ---

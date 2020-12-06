@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 54'
-order: 54
-layout: 'default'
+displayOrder: 54
+layout: 'layouts/transcript.html'
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 permalink: '/trascrizioni/traccia54/'
 ---

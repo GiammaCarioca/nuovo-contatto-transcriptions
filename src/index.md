@@ -1,4 +1,4 @@
 ---
-title: "Pagina iniziale"
-layout: "layouts/home.html"
+title: 'Pagina iniziale'
+layout: 'layouts/home'
 ---

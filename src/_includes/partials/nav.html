@@ -1,6 +1,18 @@
 <nav>
-  <a href="/">Pagina iniziale</a>
-  <a href="/about">Chi siamo</a>
-  <a href="/trascrizioni">Trascrizioni</a>
-  <a href="/blog">Blog</a>
+  <ul>
+    {% for item in navigation.items %}
+    <li>
+      <a
+        href="{{ item.url }}"
+        {{
+        helpers.getLinkActiveState(item.url,
+        page.url)
+        |
+        safe
+        }}
+        >{{ item.text }}</a
+      >
+    </li>
+    {% endfor %}
+  </ul>
 </nav>

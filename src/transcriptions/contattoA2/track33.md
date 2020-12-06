@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 33'
-order: 33
-layout: 'default'
+displayOrder: 33
+layout: 'layouts/transcript.html'
 chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 permalink: '/trascrizioni/traccia33/'
 ---

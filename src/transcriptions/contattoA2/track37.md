@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 37'
-order: 37
-layout: 'default'
+displayOrder: 37
+layout: 'layouts/transcript.html'
 chapter: 'Unità 5: Come stai?'
 permalink: '/trascrizioni/traccia37/'
 ---

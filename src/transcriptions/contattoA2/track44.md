@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 44'
-order: 44
-layout: 'default'
+displayOrder: 44
+layout: 'layouts/transcript.html'
 chapter: 'Unità 1: E tu, dove sei andato in vacanza?'
 permalink: '/trascrizioni/traccia44/'
 ---

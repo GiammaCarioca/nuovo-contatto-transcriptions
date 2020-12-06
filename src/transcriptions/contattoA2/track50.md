@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 50'
-order: 50
-layout: 'default'
+displayOrder: 50
+layout: 'layouts/transcript.html'
 chapter: 'Unità 2: Cercavo qualcosa?'
 permalink: '/trascrizioni/traccia50/'
 ---

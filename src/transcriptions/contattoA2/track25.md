@@ -1,7 +1,7 @@
 ---
 title: 'Traccia 25'
-order: 25
-layout: 'default'
+displayOrder: 25
+layout: 'layouts/transcript.html'
 chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 permalink: '/trascrizioni/traccia25/'
 ---

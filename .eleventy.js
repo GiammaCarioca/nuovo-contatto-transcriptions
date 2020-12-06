@@ -1,19 +1,21 @@
+const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js')
+
 module.exports = (eleventyConfig) => {
   eleventyConfig.addWatchTarget('./src/styles/')
+
+  // Set directories to pass through to the dist folder
   eleventyConfig.addPassthroughCopy('./src/styles/')
+  eleventyConfig.addPassthroughCopy('./src/assets/images/')
 
   // Layout aliases can make templates more portable
   eleventyConfig.addLayoutAlias('default', 'layouts/base.html')
 
-  // sort transcripts collection by track in ascending order
-  eleventyConfig.addCollection('transcripts', (collection) =>
-    collection
-      .getFilteredByTag('transcripts')
-      .sort((a, b) => {
-        return b.data.order - a.data.order
-      })
-      .reverse()
-  )
+  // Returns track items, sorted by display order
+  eleventyConfig.addCollection('transcripts', (collection) => {
+    return sortByDisplayOrder(
+      collection.getFilteredByGlob('./src/transcriptions/contattoA2/*.md')
+    )
+  })
 
   return {
     markdownTemplateEngine: 'njk',
