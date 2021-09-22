@@ -1,5 +1,0 @@
-{
-  "layout": "layouts/transcript.html",
-  "permalink": "/trascrizioni/{{ page.fileSlug }}.html",
-  "tags": ["A2"]
-}

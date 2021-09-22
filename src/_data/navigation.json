@@ -9,12 +9,16 @@
       "url": "/chi-siamo/"
     },
     {
-      "text": "Blog",
-      "url": "/blog/"
+      "text": "A1",
+      "url": "/A1/"
     },
     {
-      "text": "Trascrizioni",
-      "url": "/trascrizioni/"
+      "text": "A2",
+      "url": "/A2/"
+    },
+    {
+      "text": "B1",
+      "url": "/B1/"
     }
   ]
 }

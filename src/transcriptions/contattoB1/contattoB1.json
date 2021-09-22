@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/transcript.html",
+  "permalink": "/B1/{{ page.fileSlug }}.html",
+  "tags": ["B1"]
+}

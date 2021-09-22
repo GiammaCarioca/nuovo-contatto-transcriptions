@@ -11,9 +11,9 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addLayoutAlias('default', 'layouts/base.html')
 
   // Returns track items, sorted by display order
-  eleventyConfig.addCollection('transcripts', (collection) => {
+  eleventyConfig.addCollection('textbookA2', (collection) => {
     return sortByDisplayOrder(
-      collection.getFilteredByGlob('./src/transcriptions/contattoA2/*.md')
+      collection.getFilteredByGlob('./src/transcriptions/contattoA2/textbook/*.md')
     )
   })
 
