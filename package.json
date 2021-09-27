@@ -1,5 +1,5 @@
 {
-  "name": "dialoghi",
+  "name": "nuovo-contatto-transcriptions",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -15,17 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GiammaCarioca/dialoghi.git"
+    "url": "git+https://github.com/GiammaCarioca/nuovo-contatto-transcriptions.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GiammaCarioca/dialoghi/issues"
+    "url": "https://github.com/GiammaCarioca/nuovo-contatto-transcriptions/issues"
   },
-  "homepage": "https://github.com/GiammaCarioca/dialoghi#readme",
+  "homepage": "https://github.com/GiammaCarioca/nuovo-contatto-transcriptions#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^v0.12.1",
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.0.4",
     "npm-run-all": "^4.1.5",
