@@ -1,0 +1,8 @@
+---
+title: 'Traccia 75'
+displayOrder: 75
+chapter: 'Unità 4: Tu che cosa prendi?'
+tags:
+---
+
+Allora, cosa possiamo dire? Le ultime statistiche sulle abitudini alimentari degli italiani ci danno un quadro abbastanza negativo. Questa indagine che studia le abitudini alimentari degli italiani dal 1993 al 2003, quindi circa 10 anni, ci dice che gli alimenti tradizionali e tipici della dieta mediterranea, come il pane, la pasta, il riso, la frutta e la verdura, sono in netta diminuzione. Quindi le persone, gli italiani, mangiano meno questi alimenti. Fortunatamente cala anche il consumo di grassi, come ad esempio l’olio d’oliva e l’olio vegetale. Per quanto riguarda invece le abitudini alimentari per fasce d’età, possiamo dire che i giovani tendono a mangiare poca verdura, poca frutta e anche poco latte, mentre tutti noi conosciamo i benefici di questi alimenti. Per quanto riguarda invece gli adulti... il pasto principale è diventato la cena. Infatti solo il 38,1% degli adulti mangia a casa il pranzo, il 12,4% mangia infatti il pranzo in mensa e il 23,2% mangia direttamente nei luoghi di lavoro. Questa tendenza è valida anche per i bambini, fra i 3 e i 5 anni il 39% dei bambini mangia fuori casa, e addirittura per i bambini fra i 6 e i 10 anni la percentuale di chi pranza fuori è del 69%. Fortunatamente c’è anche qualche segnale positivo, segnale che ci dice che circa il 75,8% delle persone consuma una colazione adeguata, l’88,2% della popolazione controlla il peso almeno una volta all’anno, il 62% controlla la qualità dei cibi che mangia e il 32% legge gli ingredienti sulle etichette, mentre il 12% preferisce cibi da agricoltura biologica. Questo ci dice che gli italiani sono ancora molto attenti alla qualità dei cibi che mangiano.
