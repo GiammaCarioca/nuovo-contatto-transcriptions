@@ -33,8 +33,8 @@ di Manchester per un anno. E... e niente, per due estati ho fatto dei viaggi stu
 ● Sì, prego.
 
 [...]
-■ Bene. Parla molto bene inglese. È anche difficile trovare persone che parlino così bene l’inglese, oggi. Il nostro è un ambiente giovane, dinamico. Trattiamo acciaio, import-export. E siamo in notevole espansione nell’ultimo periodo. Stiamo cercando appunto una figura di segretaria di direzione, che tenga i contatti con i nostri clienti, soprattutto all’estero. Lei è flessibile a... rispetto agli orari di lavo-
-ro... a eventuali straordinari...
+
+■ Bene. Parla molto bene inglese. È anche difficile trovare persone che parlino così bene l’inglese, oggi. Il nostro è un ambiente giovane, dinamico. Trattiamo acciaio, import-export. E siamo in notevole espansione nell’ultimo periodo. Stiamo cercando appunto una figura di segretaria di direzione, che tenga i contatti con i nostri clienti, soprattutto all’estero. Lei è flessibile a... rispetto agli orari di lavoro... a eventuali straordinari...
 
 ● Sì, sì... Sì, per il momento non ho vincoli particolari, quindi sono molto flessibile.
 
@@ -48,14 +48,14 @@ ro... a eventuali straordinari...
 
 ■ Bene. Mi dica, ehm... Tre qualità e tre Suoi difetti.
 
-● Allora... tre qualità... Beh, direi... determinata. Mi piace raggiungere gli obiettivi. Poi... collaborativa. Sì, mi piace il contatto con la gente. Poi, b... beh, sono una persona attenta e anche molto precisa. Come difetti... boh, direi impaziente, ansiosa e alcune volte anche collerica. Sempre per il fatto
+● Allora... tre qualità... Beh, direi... determinata. Mi piace raggiungere gli obiettivi. Poi... collaborativa. Sì, mi piace il contatto con la gente. Poi... beh, sono una persona attenta e anche molto precisa. Come difetti... boh, direi impaziente, ansiosa e alcune volte anche collerica. Sempre per il fatto
 che sono molto attenta e precisa e quindi... può diventare anche un difetto.
 
 ■ Ipotizziamo il caso in cui il Suo capo fa... fa un errore. Lei che cosa farebbe?
 
 ● Beh, penso che glielo farei notare.
 
-■ Quindi il capo non ha sempre ragione. Guardi, per me il colloquio è finito. Non c’è problema. Analizziamo tutti questi dati con tutti gli altre... le altre persone che stiamo vedendo in questi giorni e poi Le farò sapere. Prenderò il Suo numero di telefono dal Suo curriculum e vedrò di farLe sapere qualcosa il prima possibile.
+■ Quindi il capo non ha sempre ragione. Guardi, per me il colloquio è finito. Non c’è problema. Analizziamo tutti questi dati con tutti gli altri... le altre persone che stiamo vedendo in questi giorni e poi Le farò sapere. Prenderò il Suo numero di telefono dal Suo curriculum e vedrò di farLe sapere qualcosa il prima possibile.
 
 ● Grazie mille. Spero di risentirLa. Buonasera.
 

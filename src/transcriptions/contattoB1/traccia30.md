@@ -11,9 +11,9 @@ tags:
 
 **3** Dai Claudia, calmati, che cosa vuoi che faccia?
 
-**4** Sì, non fai la spesa, non paghi le bollette, non pulisci, niente! Non si può andare avanti così, sono la tua coinquilina, non sono mica tua madre!! Non va bene che faccia tutto io!
+**4** Sì, non fai la spesa, non paghi le bollette, non pulisci, niente! Non si può andare avanti così, sono la tua coinquilina, non sono mica tua madre! Non va bene che faccia tutto io!
 
-**5** Ma quando mai? L’avrai fatto due volte. Lo sai che è un mese che non porti fuori la spazzatura? E indovina chi lo fa al posto tuo? Io! È vero che io studio e tu lavori, ma non è che io abbia più tempo di te!!
+**5** Ma quando mai? L’avrai fatto due volte. Lo sai che è un mese che non porti fuori la spazzatura? E indovina chi lo fa al posto tuo? Io! È vero che io studio e tu lavori, ma non è che io abbia più tempo di te!
 
 **6** Mi dispiace che tu la pensi così. Io cerco sempre di stare attenta e di non disturbarti. Beh, comunque è meglio che ti calmi un po’ perché guarda che anche tu hai i tuoi difetti.
 

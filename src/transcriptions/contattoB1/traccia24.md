@@ -11,8 +11,7 @@ tags:
 
 ● Ma come ha cominciato a fare questo mestiere?
 
-■ Mah, è... una tradizione di famiglia, per così dire... Da ragazza abitavo in un grande condominio a Milano e mio padre, che era ragioniere, faceva l’amministratore del nostro palazzo. Poi, quando sono cresciuta, ho cominciato a dargli una mano con i conti e scrivevo le lettere di convocazione dell’as-
-semblea di condominio annuale. Poi da grande, dopo la laurea in Economia, ho fatto un corso specifico e ho deciso di farne la mia professione.
+■ Mah, è... una tradizione di famiglia, per così dire... Da ragazza abitavo in un grande condominio a Milano e mio padre, che era ragioniere, faceva l’amministratore del nostro palazzo. Poi, quando sono cresciuta, ho cominciato a dargli una mano con i conti e scrivevo le lettere di convocazione dell’assemblea di condominio annuale. Poi da grande, dopo la laurea in Economia, ho fatto un corso specifico e ho deciso di farne la mia professione.
 
 ● Lavora da sola?
 

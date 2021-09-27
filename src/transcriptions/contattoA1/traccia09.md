@@ -8,7 +8,9 @@ tags:
 **1**
 
 ■ Come stai?
+
 ● Bene, e tu?
+
 ■ Benissimo. Ti presento una nuova compagna. Questa è Kira.
 
 ● Piacere, io sono Fiona.
@@ -16,6 +18,7 @@ tags:
 **2**
 
 ■ Che cosa fa?
+
 ● Sono fotografo. E Lei?
 
 ■ Studio informatica.

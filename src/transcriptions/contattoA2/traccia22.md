@@ -34,7 +34,11 @@ chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 
 **Carla** Si vede, si vede... E anche tuo fratello Gianluca è sposato?
 
-**Emanuela** Allora, in verità si è sposato molto giovane e adesso è divorziato, ma per fortuna ha ottimi rapporti con la sua ex moglie. Lui è l’unico di noi tre che è rimasto a vivere in Sicilia.
+**Emanuela** Allora, in verità si è sposato molto giovane e adesso è divorziato, ma per fortuna ha ottimi rapporti con la sua ex moglie.
+
+**Carla** Meno male!
+
+**Emanuela** Lui è l’unico di noi tre che è rimasto a vivere in Sicilia.
 
 **Carla** Ho capito. E tu, invece, dopo il liceo a Messina, ti sei trasferita a Torino, ricordo bene?
 
@@ -48,7 +52,7 @@ chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 
 **Emanuela** No, in Biologia.
 
-**Carla** Ah, smemorata... sì, hai ragione!
+**Carla** Ah, smemorata... sì, hai ragione hai ragione!
 
 **Emanuela** Dopo la laurea sono andata a lavorare come biologa negli Stati Uniti per ben quattro anni.
 
@@ -74,18 +78,22 @@ chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 
 **Carla** Eh certo... Uh, dai, queste sono le foto del tuo matrimonio? Fammele vedere...
 
-**Emanuela** Guarda questa. Qui stiamo tagliando la torta!
+**Emanuela** Guarda guarda questa. Qui stiamo tagliando la torta!
 
 **Carla** Che belli! Stavate proprio bene tu e Roberto! E invece, senti, tutti questi chi sono, i tuoi parenti o di Roberto?
 
-**Emanuela** No, no sono i miei! Sono tutti miei zii: questi sono due fratelli e queste sono le due sorelle di mia madre, che vivono tutti in Piemonte. E invece questo qui è mio zio Giuliano, l’unico fratello di mio padre e l’unico ad essere scapolo.
+**Emanuela** No, no... sono i miei! Sono tutti miei zii: questi sono due fratelli e queste sono le due sorelle di mia madre, che vivono tutti in Piemonte. E invece questo qui è mio zio Giuliano, l’unico fratello di mio padre e l’unico ad essere scapolo.
 
 **Carla** Ho capito. E quindi hai anche molti cugini?
 
-**Emanuela** Sì, ne ho ben undici, qui ne vedi solo alcuni: questo è Marco, che è il figlio di zia Sara, e invece questa qui è Lucia, la figlia di zio Tommaso...
+**Emanuela** Sì sì sì, ne ho ben undici, qui ne vedi solo alcuni: questo è Marco, che è il figlio di zia Sara, e invece questa qui è Lucia, la figlia di zio Tommaso...
 
-**Carla** Ho capito... Li vedi spesso i tuoi zii e i tuoi cugini?
+**Carla** Ho capito... e li vedi spesso i tuoi zii e i tuoi cugini?
 
-**Emanuela** Mah insomma, guarda, ci vediamo tutti una volta all’anno nella casa di campagna di mio nonno per festeggiare il suo compleanno. Pensa che quest’anno il mio nonnino ha compiuto ben 91 anni!
+**Emanuela** Mah insomma, guarda, ci vediamo tutti una volta all’anno nella casa di campagna di mio nonno per festeggiare il suo compleanno.
+
+**Carla** Oh che bello!
+
+**Emanuela** Pensa che quest’anno il mio nonnino ha compiuto ben 91 anni!
 
 **Carla** Complimenti! E allora avete fatto una torta con novantun candeline!

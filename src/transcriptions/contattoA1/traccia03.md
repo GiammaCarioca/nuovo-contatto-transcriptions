@@ -25,7 +25,7 @@ tags:
 
 **Rosa:** Abito in provincia di Biella, a Cossato. E tu?
 
-**Stefano:** Io abito a Torino da qualche anno, perché lavoro in una Società di Torino, ma sono siciliano, di Pachino, che è un piccolo paese: l’hai mai sentito?
+**Stefano:** Io abito a Torino da qualche anno, perché lavoro in una società di Torino, ma sono siciliano, di Pachino, che è un piccolo paese: l’hai mai sentito?
 
 **Rosa:** Ah, certo! Non è il paese della Sicilia che è più vicino all’Africa? Quello dei famosi pomodori?
 
@@ -55,7 +55,7 @@ tags:
 
 **Stefano:** Scusa, puoi ripetere il tuo nome? Non ho capito!
 
-**Jean:** Sono Jean! Sono francese.
+**Jean:** Sono Jean. Sono francese.
 
 **Stefano:** Di dove?
 

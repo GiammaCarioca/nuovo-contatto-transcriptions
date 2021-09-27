@@ -10,8 +10,7 @@ chapter: 'Unità 3: Mi fai vedere qualche foto della tua famiglia?'
 
 **3** Come sei in classe?
 
-**4** Che cosa so-
-no per te i compagni di scuola?
+**4** Che cosa sono per te i compagni di scuola?
 
 **5** Se prendi un brutto voto, che cosa pensi?
 
