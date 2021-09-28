@@ -17,7 +17,7 @@ tags:
 
 ■ Siamo in vacanza, per fortuna! E tu dove sei?
 
-● Purtroppo io sono a casa, Marta ha molto lavoro da fare e non andiamo in vacanza.
+● Purtroppo io sono a casa, Marta ha molto lavoro e non andiamo in vacanza.
 
 ■ Ah, peccato!
 
@@ -31,7 +31,7 @@ tags:
 
 ● Va bene, grazie. Ho un’altra domanda, il museo ha un sito internet?
 
-■ Certo, è [http://www.museoarc.it.](http://www.museoarc.it.)
+■ Certo, è www.museoarc.it
 
 **3**
 

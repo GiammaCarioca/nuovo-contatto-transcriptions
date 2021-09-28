@@ -7,7 +7,7 @@ tags:
 
 **1**
 
-■ Buongiorno, come passa il suo tempo libero?
+■ Buongiorno, come passa il Suo tempo libero?
 
 ● Ma, guardi, mi riposo... il mio tempo libero è dedicato al riposo. Sto a casa, con la famiglia oppure faccio delle passeggiate... e basta.
 
@@ -23,7 +23,7 @@ tags:
 
 ■ Quando ha un po’ di tempo, che cosa fa?
 
- Quando ho un po’ di tempo... ascolto musica. Sa, sono un’ex musicista.
+ Quando ho un po’ di tempo... ascolto musica. Sa, sono un ex musicista.
 
 ■ Le piace anche leggere?
 
@@ -37,11 +37,11 @@ tags:
 
 **4**
 
-■ Buongiorno, come trascorre il suo tempo libero? Che cosa fa quando non lavora?
+■ Buongiorno, come trascorre il Suo tempo libero? Che cosa fa quando non lavora?
 
 ◗ Beh, io amo il calcio e di domenica vado allo stadio con un gruppo di amici, sono tifoso della Roma e non mi perdo una partita! Se proprio non posso andare allo stadio, guardo le partite in tv.
 
-■ Gioca anche lei in una squadra?
+■ Gioca anche Lei in una squadra?
 
 ◗ Io? No, no, assolutamente! Mi piace guardare le partite di calcio, ma io non gioco, non sono sportivo!
 

@@ -19,17 +19,17 @@ tags:
 
 ● Allora prendo una doppia con bagno.
 
-■ Bene, mi dice il suo nome per favore?
+■ Bene, mi dice il Suo nome per favore?
 
 ● Sandra Castelli.
 
-■ Castelli. Il suo numero di telefono?
+■ Castelli. Il Suo numero di telefono?
 
 ● 0363-967874.
 
 **2**
 
-■ Pronto, Villaggio La Perla, in che cosa posso esserle utile?
+■ Pronto, Villaggio La Perla, in che cosa posso esserLe utile?
 
 ● Avete una camera singola per la prossima settimana per quattro notti, dal 28 giugno al primo di luglio?
 
@@ -45,7 +45,7 @@ tags:
 
 ● Va bene, allora la prendo.
 
-■ Il suo nome e un numero di telefono, gentilmente.
+■ Il Suo nome e un numero di telefono, gentilmente.
 
 ● Susanne Müller, 0783-22-45-8-0-3.
 

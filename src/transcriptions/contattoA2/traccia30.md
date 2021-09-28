@@ -14,7 +14,7 @@ chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 
 **Amica** E certo! E avete già deciso come arredarlo?
 
-**Signora Cavagna** Mah sì, più o meno.... Ehm... prima di tutto vorremmo cambiare il soggiorno perché, come vedi, il nostro è un po’ vecchio.
+**Signora Cavagna** Mah sì, più o meno... prima di tutto vorremmo cambiare il soggiorno perché, come vedi, il nostro è un po’ vecchio.
 
 **Amica** Eh, un po’ sì.
 

@@ -33,7 +33,7 @@ tags:
 
 **Matteo:** Per me delle lasagne alla bolognese.
 
-**Cameriere:** Va bene! E come secondo? Cosa le porto?
+**Cameriere:** Va bene! E come secondo? Cosa Le porto?
 
 **Matteo:** Mhm... sono indeciso tra il pesce e la carne... facciamo una grigliata di carne.
 
@@ -53,7 +53,7 @@ tags:
 
 **Signor Rossini** : Allora buon appetito a tutti!
 
-**Irene/Matteo/Signora Rossini:** Grazie!/Altrettanto!
+**Irene/Matteo/Signora Rossini:** Grazie! Altrettanto!
 
 **Signor Rossini:** Matteo, mia figlia ti ha detto perché veniamo sempre il 29 di giugno?
 

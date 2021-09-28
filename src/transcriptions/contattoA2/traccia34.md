@@ -22,7 +22,7 @@ chapter: 'Unità 5: Come stai?'
 
 **Collega** Capisco, però fare un po’ di movimento ti aiuterebbe a rilassarti e ti farebbe bene anche alla schiena. Magari basterebbe camminare un po’ di più, evitare di prendere l’auto e il taxi e andare a piedi... Poi anche se mangi fuori, puoi cercare di fare più attenzione a quello che mangi, e soprattutto bere meno caffè. Quando sei qui in ufficio, ne bevi almeno tre, quattro in una giornata! Ti fanno male! Ci credo che poi non riesci a dormire! Prenditi una spremuta, un succo di frutta...
 
-**Paolo** Eh, va bene, va bene, sei peggio del mi’ dottore! In realtà, avrei bisogno di una bella vacanza, è dall’estate scorsa che non mi faccio un giorno di ferie...
+**Paolo** Eh, va bene, va bene, sei peggio del mio dottore! In realtà, avrei bisogno di una bella vacanza, è dall’estate scorsa che non mi faccio un giorno di ferie...
 
 **Collega** Potresti prenderti qualche giorno a Pasqua, magari andare alle terme... Mah, sai, io sono stata una settimana alle terme di Saturnia: bagni, massaggi, totale relax. Sono tornata come nuova!
 
@@ -34,4 +34,4 @@ chapter: 'Unità 5: Come stai?'
 
 **Collega** Sì, è meglio, perché se ce l’hai, alcune cure sono gratuite.
 
-**Paolo** Va bene, ti ringrazio dei consigli; ora però rimettiamoci a lavorare, perché fra un’ora abbiamo la riunione col direttore e non ho ancora preparato la relazione...
+**Paolo** Va bene, ti ringrazio dei consigli; ora però rimettiamoci a lavorare, perché fra un’ora abbiamo la riunione col direttore e non ho ancora preparato la relazione.

@@ -27,7 +27,7 @@ tags:
 
 **Receptionist:** Ha detto per quattro notti?
 
-**Todd:** Sì ci fermiamo il 26, 27, 28, 29 e ripartiamo il 30 mattina.
+**Todd:** Sì, ci fermiamo il 26, 27, 28, 29 e ripartiamo il 30 mattina.
 
 **Receptionist:** Va bene. Scusi, mi dice il Suo nome, per favore?
 
@@ -35,7 +35,7 @@ tags:
 
 **Receptionist:** Scusi... Come si scrive?
 
-**Todd:** Ti-o-doppia di-ci-doppia o, pi-e-erre.
+**Todd:** Ti, o, doppia di, ci, doppia o, pi, e, erre.
 
 **Receptionist:** Va bene, d’accordo.
 
@@ -47,7 +47,7 @@ tags:
 
 **Receptionist:** Sì, grazie.
 
-**Todd:** È una Visa, e il numero è 0-35-47-26-32-63-8.
+**Todd:** È una Visa e il numero è 0-35-47-26-32-63-8.
 
 **Receptionist:** Va bene, allora La aspettiamo per il 26 di giugno.
 

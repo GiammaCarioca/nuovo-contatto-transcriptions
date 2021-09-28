@@ -20,11 +20,11 @@ chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 
 **Signor Cavagna** Sì, la zona andrebbe bene.
 
-**Agente** In un piccolo condominio di 14 unità, all’ultimo piano, composto da soggiorno, angolo cottura, 2 camere matrimoniali, bagno e balcone, a soli 145 000 euro.
+**Agente** In un piccolo condominio di 14 unità, all’ultimo piano, composto da soggiorno, angolo cottura, 2 camere matrimoniali, bagno e balcone, a soli 145.000 euro.
 
 **Signor Cavagna** Ho capito, angolo cottura ha detto, no preferirei la cucina abitabile.
 
-**Agente** Allora in città per quel prezzo nella zona della stazione abbiamo ancora un trilocale: ristrutturato, al quarto piano, con sala, cucina abitabile, due letti, bagno, 2 balconi, cantina e box per 150 000 trattabili.
+**Agente** Allora in città per quel prezzo nella zona della stazione abbiamo ancora un trilocale: ristrutturato, al quarto piano, con sala, cucina abitabile, due letti, bagno, 2 balconi, cantina e box per 150.000 trattabili.
 
 **Signor Cavagna** Ma, senta, è un condominio di quanti anni? C’è l’ascensore?
 
@@ -36,7 +36,7 @@ chapter: "Unità 4: Verrà proprio un bell'appartamento!"
 
 **Signor Cavagna** Sì, saranno circa 8 chilometri dalla città, giusto?
 
-**Agente** Sì, 7-8 chilometri, abbiamo in villa di due famiglie un ampio trilocale al primo piano, con doppi servizi, 2 balconi, garage, cantina, veramente bello, nuovo, a soli 170 000 euro. È un vero affare, anche perché non ci sono spese condominiali.
+**Agente** Sì, 7-8 chilometri, abbiamo in villa di due famiglie un ampio trilocale al primo piano, con doppi servizi, 2 balconi, garage, cantina, veramente bello, nuovo, a soli 170.000 euro. È un vero affare, anche perché non ci sono spese condominiali.
 
 **Signor Cavagna** È interessante, senta, e le camere come sono?
 

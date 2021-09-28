@@ -13,13 +13,13 @@ tags:
 
 **2**
 
-■ Il suo nome, per favore?
+■ Il Suo nome, per favore?
 
 ● Recchia.
 
 **3**
 
-■ Mi dice il suo nome, per favore?
+■ Mi dice il Suo nome, per favore?
 
 ● Guerini.
 
@@ -31,13 +31,13 @@ tags:
 
 **5**
 
-■ Il suo nome, per favore?
+■ Il Suo nome, per favore?
 
 ● Pezzotti.
 
 **6**
 
-■ Mi dice il suo nome, per favore?
+■ Mi dice il Suo nome, per favore?
 
 ● Corona.
 
@@ -49,6 +49,6 @@ tags:
 
 **8**
 
-■ Il suo nome, per favore?
+■ Il Suo nome, per favore?
 
 ● Abate.

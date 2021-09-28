@@ -35,7 +35,7 @@ tags:
 
 **3**
 
-■ Mi scusi, mi saprebbe dire dove posso trovare un Bancomat?
+■ Mi scusi, mi saprebbe dire dove posso trovare un bancomat?
 
 ● Sì, ce n’è uno qui vicino. Attraversi la piazza e prenda la prima a destra. È all’inizio della via.
 
@@ -45,7 +45,7 @@ tags:
 
 ■ Ah, ci sono già stata ma non funziona.
 
-● Allora c’è un’altra banca in fondo alla strada, di fronte alla chiesa di S. Carlo.
+● Allora c’è un’altra banca in fondo alla strada, di fronte alla chiesa di San Carlo.
 
 ■ Ah, grazie mille.
 
