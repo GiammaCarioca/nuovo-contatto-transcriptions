@@ -15,8 +15,7 @@ tags:
 
 **Anna** Ah, ecco! Adesso ho capito tutto. Certo che non c’è peggior sordo di chi non vuol sentire!
 
-**Giovanni** No, dai! Italia-Germania. Te ne rendi conto? Non posso perderla, dai! Senti, stiamo qui, io e te, in rigorosa concentrazione e poi usciamo a festeggiare con tutti gli altri, anzi no, meglio ancora,
-chiediamo a loro di venire qui, così guardiamo la partita insieme! Troppo bello! Tifo sfrenato, birra e la bandiera della Nazionale fuori dalla finestra.
+**Giovanni** No, dai! Italia-Germania. Te ne rendi conto? Non posso perderla, dai! Senti, stiamo qui, io e te, in rigorosa concentrazione e poi usciamo a festeggiare con tutti gli altri, anzi no, meglio ancora, chiediamo a loro di venire qui, così guardiamo la partita insieme! Troppo bello! Tifo sfrenato, birra e la bandiera della Nazionale fuori dalla finestra.
 
 **Anna** Tu e la tua Nazionale. Lo sai che il calcio non mi piace. Anzi, sai cosa ti dico? Del tuo calcio e della tua Nazionale non me ne frega niente!
 

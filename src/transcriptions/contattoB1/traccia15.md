@@ -13,7 +13,7 @@ tags:
 ancora. Chi vuole vedere la partita si vede la partita; se voi invece non ne avete voglia, vi prendete qualcosa da bere, tanto ci sarà un sacco di gente in giro. Poi finita la partita, festeggiamo Marta e spero anche la Nazionale, direttamente lì, così non rischiamo di rimanere bloccati nel traffico. Cosa
 ne dici?
 
-**Anna** Mh! Non è proprio così male... beh, forse si può fare dai. Provo a sentire Marta. Ma tu promettimi che non ne parliamo tutta sera di ’sta partita.
+**Anna** Mmh! Non è proprio così male... beh, forse si può fare dai. Provo a sentire Marta. Ma tu promettimi che non ne parliamo tutta sera di ’sta partita.
 
 **Giovanni** Promesso! Bacino?
 

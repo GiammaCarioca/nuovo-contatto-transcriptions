@@ -27,7 +27,7 @@ tags:
 
 **Anna** Te la faccio vedere anche tutta, ma solo se poi usciamo insieme.
 
-3
+**3**
 
 **Sara** Wow, che bella questa statua indiana! Ve l’hanno regalata per il vostro matrimonio?
 

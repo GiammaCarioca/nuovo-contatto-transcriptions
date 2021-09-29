@@ -5,8 +5,7 @@ chapter: 'Unità 3: Su dai, andiamo!'
 tags:
 ---
 
-**Intervistatore** Dopo il diploma: studio o lavoro? È questa la domanda che si fanno molti ragazzi alla fine della scuola superiore. È meglio andare all’università oppure entrare subito nel mondo del lavoro?
-Lo abbiamo chiesto ad alcuni passanti nel sondaggio di oggi e queste sono le loro risposte.
+**Intervistatore** Dopo il diploma: studio o lavoro? È questa la domanda che si fanno molti ragazzi alla fine della scuola superiore. È meglio andare all’università oppure entrare subito nel mondo del lavoro? Lo abbiamo chiesto ad alcuni passanti nel sondaggio di oggi e queste sono le loro risposte.
 
 **Intervistatore** Ciao, come vi chiamate?
 
@@ -26,8 +25,7 @@ Lo abbiamo chiesto ad alcuni passanti nel sondaggio di oggi e queste sono le lor
 
 **Intervistatore** E tu Silvia, sei d’accordo?
 
-**Silvia** No, io non la penso così. Non credo che la formazione universitaria sia indispensabile. Non penso che tutti i giovani abbiano la voglia e le possibilità economiche di continuare a studiare. Secondo me
-le aziende hanno bisogno anche di diplomati. Nel mio caso io ho deciso di non continuare a studiare perché voglio rendermi indipendente dai miei genitori. Non voglio che siano obbligati a mantenermi agli studi fino a 25 anni. No grazie...
+**Silvia** No, io non la penso così. Non credo che la formazione universitaria sia indispensabile. Non penso che tutti i giovani abbiano la voglia e le possibilità economiche di continuare a studiare. Secondo me le aziende hanno bisogno anche di diplomati. Nel mio caso io ho deciso di non continuare a studiare perché voglio rendermi indipendente dai miei genitori. Non voglio che siano obbligati a mantenermi agli studi fino a 25 anni. No grazie...
 
 **Intervistatore** Stiamo facendo un sondaggio: studio o lavoro dopo il diploma? Qual è la Sua opinione? Come si chiama?
 

@@ -20,11 +20,13 @@ tags:
 **Sabina** Ma va? Dove?
 
 **Angela** Alla festa dell’Unità, ieri sera.
+
 [...]
 
 **Angela** È rimasto lì sulla panca, vicino a me, e quando ci siamo alzati per andare via, eh... non c’era più.
 
 **Sabina** Cavoli! Chissà che rabbia!
+
 [...]
 
 **Angela** ... e poi c’era il cellulare, con tutti i numeri dentro, e soprattutto un regalo di Stefano...
@@ -32,6 +34,7 @@ tags:
 **Sabina** Ma no!
 
 [...]
+
 **Angela** Così mi ha preso un anello molto simile, guarda, è stato davvero carino, mi sono quasi commossa.
 
 **Sabina** Va be’, dai, qualcosa di positivo c’è: dici sempre che è una persona chiusa, un po’ brusca...

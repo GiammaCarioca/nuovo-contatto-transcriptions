@@ -5,8 +5,6 @@ chapter: 'Unità 4: Come ha saputo di questo lavoro?'
 tags:
 ---
 
-Traccia 23
-
 ■ Buonasera, si accomodi. Sono Giovanni Disco, responsabile del personale.
 
 ● Salve, sono Marta Rossi.

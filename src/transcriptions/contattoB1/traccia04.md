@@ -53,7 +53,7 @@ cretina!!
 
 **Sabina** Beh, non potevi saperlo, forse quella la potrai ricomprare...
 
-**Angela** No, perché era l’ultima: Stefano, guarda, è stato carinissimo e per consolarmi è andato subito a cercarne un’altra, ma si sa, l’artigianato... sono pezzi unici. Così mi ha preso un anello molto simile, guarda, è stato davvero carino, mi sono quasi commossa.
+**Angela** No, perché era l’ultima... Stefano, guarda, è stato carinissimo e per consolarmi è andato subito a cercarne un’altra, ma si sa, l’artigianato... sono pezzi unici. Così mi ha preso un anello molto simile, guarda, è stato davvero carino, mi sono quasi commossa.
 
 **Sabina** Va be’, dai, qualcosa di positivo c’è: dici sempre che è una persona chiusa, un po’ brusca...
 

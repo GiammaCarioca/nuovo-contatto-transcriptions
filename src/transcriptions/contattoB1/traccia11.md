@@ -11,7 +11,7 @@ tags:
 
 **Cameriera** Vi lascio un po’ di tempo per decidere.
 
-**Uomo** Sì, molto gentile. Allora... vediamo... mmm... aiutami un po’ con il menù. Ci sono un sacco di piatti che non conosco... eh... Per esempio: che cos’è la cotoletta alla milanese? È carne, vero?
+**Uomo** Sì, molto gentile. Allora... vediamo... mmm... aiutami un po’ con il menù. Ci sono un sacco di piatti che non conosco... eh... per esempio... che cos’è la cotoletta alla milanese? È carne, vero?
 
 **Donna** Sì, sì, è carne, è una fetta di vitello, una costoletta con l’osso... sai... non so se hai capito...
 

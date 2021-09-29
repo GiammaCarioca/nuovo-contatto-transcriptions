@@ -21,8 +21,7 @@ tags:
 
 **Silvia** Bello!
 
-**Gianna** Il mare è splendido in Sardegna, e poi ci sono un sacco di cose da vedere e ho sentito alla radio una trasmissione su un bellissimo percorso nella penisola del Sinis. Ma Ivo non ne vuole sapere, dice che morirebbe pedalando sotto il sole, che il viaggio è lungo e complicato perché bisogna prendere il
-treno e poi il traghetto e poi di nuovo il treno...
+**Gianna** Il mare è splendido in Sardegna, e poi ci sono un sacco di cose da vedere e ho sentito alla radio una trasmissione su un bellissimo percorso nella penisola del Sinis. Ma Ivo non ne vuole sapere, dice che morirebbe pedalando sotto il sole, che il viaggio è lungo e complicato perché bisogna prendere il treno e poi il traghetto e poi di nuovo il treno...
 
 **Silvia** Beh, è vero, il viaggio è un po’ lungo.
 

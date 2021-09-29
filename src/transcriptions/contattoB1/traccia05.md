@@ -9,7 +9,7 @@ tags:
 
 ● Cioè?
 
-■ Avevano un aspetto trasandato, soprattutto il ragazzo. Aveva la barba lunga e i capelli spettinati, sporchi; portava un vecchio giaccone di pelle e dei jeans strappati.
+■ Avevano un aspetto trasandato, soprattutto il ragazzo. Aveva la barba lunga e i capelli spettinati, sporchi... portava un vecchio giaccone di pelle e dei jeans strappati.
 
 ● E la ragazza?
 
