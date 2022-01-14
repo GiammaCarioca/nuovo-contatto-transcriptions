@@ -1,6 +1,10 @@
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js')
 
 module.exports = (eleventyConfig) => {
+  // A plugin to help you upgrade your Eleventy project to a new major version.
+  eleventyConfig.addPlugin(UpgradeHelper);
+
   eleventyConfig.addWatchTarget('./src/styles/')
 
   // Set directories to pass through to the dist folder
