@@ -7,7 +7,7 @@ tags:
 
 **1**
 
-■ Ciao, io mi chiamo Carlos, e tu? {.spearker-one}
+■ Ciao, io mi chiamo Carlos, e tu?
 
 ● Ciao, io sono Magdalena.
 
